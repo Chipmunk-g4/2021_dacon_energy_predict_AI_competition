@@ -1,0 +1,1 @@
+{'gradient_clip_val': 0.14102657642717997, 'hidden_size': 35, 'dropout': 0.184750403715413, 'hidden_continuous_size': 8, 'attention_head_size': 1, 'learning_rate': 0.048982152625346116}
