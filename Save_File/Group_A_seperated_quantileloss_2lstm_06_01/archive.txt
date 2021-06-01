@@ -1,0 +1,103 @@
+lstm2
+
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 14.446694949398218
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 12.491673215571094
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 6.889099462268015
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 2.030804623772462
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 5.890979961349461
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 6.045351146856293
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 11.567502883338273
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 8.95137072201869
+now step : 2, sMAPE score : 8.539184620571564
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 11.27955653613161
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 11.776760959098088
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 6.087946195703069
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 2.0780122578167366
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 8.370726992175713
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 9.597075392048511
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 12.960953821330937
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 9.146910413159313
+now step : 3, sMAPE score : 8.912242820932999
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 9.0710495273335
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 10.447964907474107
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 7.5527172267342575
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.8210106564493362
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 10.211692913433238
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 8.10192089860121
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 11.941106649796234
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 8.29550631860818
+now step : 4, sMAPE score : 8.430371137303759
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 11.454047538884257
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 19.367351578332833
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 8.707541838507467
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.9958672200228993
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 6.159057244569311
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 8.60630167025244
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 11.991677870478675
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 6.353366660488539
+now step : 5, sMAPE score : 9.329401452692053
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 15.150087735267745
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 5.887422815223802
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 8.309001134126913
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.4773635985906763
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 7.605265507560188
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 5.631650554468456
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 10.150202831880646
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 10.594574779128719
+now step : 6, sMAPE score : 8.100696119530893
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 16.671960195099043
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 5.799727460792442
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 8.038349228276891
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.2767744806700234
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 8.265220541235376
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 5.946754314041868
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 9.44190126164112
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 10.200060934281485
+now step : 7, sMAPE score : 8.205093552004781
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 19.989904049984037
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 5.1140773472101335
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 6.549923070146252
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.4117396156821933
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 6.049855365080389
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 5.145493013937293
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 11.76930064117688
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 8.569848866927062
+now step : 8, sMAPE score : 8.075017746268031
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 12.411956808734233
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 6.328603577255012
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 9.089922432004462
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.1488245478010568
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 7.910417877175903
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 7.17304968153109
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 9.149951619258774
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 6.744844708579804
+now step : 9, sMAPE score : 7.494696406542541
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 16.775718663491343
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 6.005971778594389
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 5.987632267331766
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.3408494374990105
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 8.613382211387197
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 6.384565076620823
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 10.064442082378138
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 6.9484537386149645
+now step : 10, sMAPE score : 7.765126906989704
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 18.296035574554374
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 6.707107748031517
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 8.42637682329883
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 2.5432551390193288
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 5.985852046895736
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 6.714304697910933
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 7.653010226422987
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 13.538582754196309
+now step : 11, sMAPE score : 8.733065626291252
+now : Refined_Data/Seperated_Data/4.csv, sMAPE score : 16.20190611984049
+now : Refined_Data/Seperated_Data/10.csv, sMAPE score : 7.245057094361278
+now : Refined_Data/Seperated_Data/11.csv, sMAPE score : 6.390167326373275
+now : Refined_Data/Seperated_Data/12.csv, sMAPE score : 1.6242614270446294
+now : Refined_Data/Seperated_Data/34.csv, sMAPE score : 6.762945432501161
+now : Refined_Data/Seperated_Data/40.csv, sMAPE score : 8.216795929514765
+now : Refined_Data/Seperated_Data/41.csv, sMAPE score : 9.809638659619822
+now : Refined_Data/Seperated_Data/42.csv, sMAPE score : 9.370152440750724
+now step : 12, sMAPE score : 8.202615553750768
+
+8.344319267534395

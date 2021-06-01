@@ -1,0 +1,10 @@
+4   Individual/4/42.ckpt                                    7
+10  seperate_model_holi_wkend_05_31/A.ckpt                  6
+11  seperate_model_holi_wkend_05_31/A.ckpt                  5
+12  Group_A_seperated_quantileloss_06_01/12.ckpt            2
+34  Group_A_seperated_quantileloss_06_01/34.ckpt            1
+40  Group_A_seperated_quantileloss_06_01/40.ckpt            6
+41  Group_A_seperated_quantileloss_06_01/41.ckpt            6
+42  Group_A_seperated_quantileloss_2lstm_06_01/423.ckpt     7
+
+seperate : energy_group category needed
