@@ -1,0 +1,119 @@
+now group : A1
+building : 4, score : 13.75637976293751
+now group : A2
+building : 11, score : 6.925831028030649
+building : 12, score : 6.144547876016342
+now group : A3
+building : 34, score : 6.932018044901747
+now group : A4
+building : 40, score : 7.141518858328371
+now group : A5
+building : 10, score : 5.04179124591092
+now group : A6
+building : 42, score : 7.6165735505359375
+now group : A7
+building : 41, score : 6.657784710442886
+now group : B1
+building : 6, score : 3.916154459908143
+building : 8, score : 2.8933128696822825
+building : 13, score : 3.1381288799199676
+building : 17, score : 2.8284200653725304
+building : 26, score : 3.338988536546586
+building : 48, score : 6.093980701844936
+building : 53, score : 2.284062572704158
+building : 55, score : 3.996378908716453
+building : 56, score : 5.745713421932026
+now group : B2
+building : 7, score : 4.106851255909832
+building : 18, score : 4.2394762171379705
+now group : B3
+building : 27, score : 5.647011636340365
+building : 57, score : 3.316189423739165
+now group : B4
+building : 35, score : 7.47128224599656
+building : 46, score : 3.7859042141880193
+building : 47, score : 2.0392583392127284
+now group : B5
+building : 25, score : 5.803730017740261
+now group : C1
+building : 1, score : 0.19198127535483636
+building : 31, score : 0.46863378935216676
+now group : C2
+building : 9, score : 1.0500090138305
+building : 32, score : 0.22423047084129716
+now group : C3
+building : 3, score : 0.9640964532715245
+now group : C4
+building : 33, score : 0.32609431978073644
+now group : D1
+building : 2, score : 2.701018082084136
+building : 14, score : 5.449404906960436
+building : 22, score : 2.873246719175857
+building : 37, score : 4.203931411448338
+building : 44, score : 1.8708708961956426
+building : 52, score : 2.565950589586818
+building : 54, score : 2.8204527010242906
+now group : D2
+building : 15, score : 4.354404141150806
+now group : D3
+building : 38, score : 1.5012616620077806
+building : 58, score : 2.1448950741936184
+building : 43, score : 3.039982180409868
+now group : D4
+building : 29, score : 6.552444638459062
+building : 39, score : 2.975371635696871
+now group : D5
+building : 45, score : 3.0933432889339723
+now group : D6
+building : 23, score : 5.67341489472692
+now group : E1
+building : 5, score : 4.292858224857178
+now group : E2
+building : 16, score : 2.2688735015639447
+building : 24, score : 1.7080780726338916
+now group : E3
+building : 19, score : 5.266132959835668
+building : 20, score : 2.137914762045054
+building : 21, score : 1.7857731896881266
+building : 49, score : 3.6703782343348257
+building : 50, score : 3.3487276937346104
+building : 51, score : 2.247599132918384
+now group : E4
+building : 28, score : 3.598351902817493
+building : 36, score : 3.2666563003232043
+building : 60, score : 2.0786008506818576
+now group : E5
+building : 59, score : 8.752236543820116
+now group : E6
+building : 30, score : 3.4715610860850563
+
+selected time slice : 3
+totoal score : 3.896667824063688
+A1 score (1) : 13.75637976293751
+A2 score (2) : 6.535189452023496
+A3 score (1) : 6.932018044901747
+A4 score (1) : 7.141518858328371
+A5 score (1) : 5.04179124591092
+A6 score (1) : 7.6165735505359375
+A7 score (1) : 6.657784710442886
+B1 score (9) : 3.8039044907363424
+B2 score (2) : 4.173163736523901
+B3 score (2) : 4.481600530039765
+B4 score (3) : 4.432148266465769
+B5 score (1) : 5.803730017740261
+C1 score (2) : 0.3303075323535016
+C2 score (2) : 0.6371197423358986
+C3 score (1) : 0.9640964532715245
+C4 score (1) : 0.32609431978073644
+D1 score (7) : 3.212125043782217
+D2 score (1) : 4.354404141150806
+D3 score (3) : 2.2287129722037555
+D4 score (2) : 4.763908137077967
+D5 score (1) : 3.0933432889339723
+D6 score (1) : 5.67341489472692
+E1 score (1) : 4.292858224857178
+E2 score (2) : 1.9884757870989183
+E3 score (6) : 3.076087662092778
+E4 score (3) : 2.9812030179408513
+E5 score (1) : 8.752236543820116
+E6 score (1) : 3.4715610860850563
